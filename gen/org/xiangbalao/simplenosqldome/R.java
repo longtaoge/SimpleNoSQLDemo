@@ -26,6 +26,7 @@ public final class R {
         public static final int bg=0x7f020001;
         public static final int ic_launcher=0x7f020002;
         public static final int nosql=0x7f020003;
+        public static final int nosqldome=0x7f020004;
     }
     public static final class id {
         public static final int btnQuery=0x7f070005;
